@@ -1,1 +1,1 @@
-cabinet__medicale
+c
